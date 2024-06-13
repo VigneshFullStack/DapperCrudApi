@@ -1,0 +1,197 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\vignesh.venkatesan\\Desktop\\My Personal\\DapperCrudApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F3410EBF-198F-4B72-A231-49627B0EDDA0}|DapperCrudApi\\DapperCrudApi.csproj|c:\\users\\vignesh.venkatesan\\desktop\\my personal\\dappercrudapi\\dappercrudapi\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3410EBF-198F-4B72-A231-49627B0EDDA0}|DapperCrudApi\\DapperCrudApi.csproj|solutionrelative:dappercrudapi\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3410EBF-198F-4B72-A231-49627B0EDDA0}|DapperCrudApi\\DapperCrudApi.csproj|c:\\users\\vignesh.venkatesan\\desktop\\my personal\\dappercrudapi\\dappercrudapi\\repositories\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3410EBF-198F-4B72-A231-49627B0EDDA0}|DapperCrudApi\\DapperCrudApi.csproj|solutionrelative:dappercrudapi\\repositories\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3410EBF-198F-4B72-A231-49627B0EDDA0}|DapperCrudApi\\DapperCrudApi.csproj|c:\\users\\vignesh.venkatesan\\desktop\\my personal\\dappercrudapi\\dappercrudapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3410EBF-198F-4B72-A231-49627B0EDDA0}|DapperCrudApi\\DapperCrudApi.csproj|solutionrelative:dappercrudapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3410EBF-198F-4B72-A231-49627B0EDDA0}|DapperCrudApi\\DapperCrudApi.csproj|c:\\users\\vignesh.venkatesan\\desktop\\my personal\\dappercrudapi\\dappercrudapi\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3410EBF-198F-4B72-A231-49627B0EDDA0}|DapperCrudApi\\DapperCrudApi.csproj|solutionrelative:dappercrudapi\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3410EBF-198F-4B72-A231-49627B0EDDA0}|DapperCrudApi\\DapperCrudApi.csproj|c:\\users\\vignesh.venkatesan\\desktop\\my personal\\dappercrudapi\\dappercrudapi\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3410EBF-198F-4B72-A231-49627B0EDDA0}|DapperCrudApi\\DapperCrudApi.csproj|solutionrelative:dappercrudapi\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 26,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:137:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:138:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:139:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:140:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:141:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:142:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:144:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:145:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:146:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:147:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:143:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:149:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:150:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:151:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\vignesh.venkatesan\\Desktop\\My Personal\\DapperCrudApi\\DapperCrudApi\\Program.cs",
+              "RelativeDocumentMoniker": "DapperCrudApi\\Program.cs",
+              "ToolTip": "C:\\Users\\vignesh.venkatesan\\Desktop\\My Personal\\DapperCrudApi\\DapperCrudApi\\Program.cs",
+              "RelativeToolTip": "DapperCrudApi\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T05:17:17.162Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\vignesh.venkatesan\\Desktop\\My Personal\\DapperCrudApi\\DapperCrudApi\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "DapperCrudApi\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\vignesh.venkatesan\\Desktop\\My Personal\\DapperCrudApi\\DapperCrudApi\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "DapperCrudApi\\Controllers\\ProductsController.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAIwDgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T05:23:53.3Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\vignesh.venkatesan\\Desktop\\My Personal\\DapperCrudApi\\DapperCrudApi\\Repositories\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "DapperCrudApi\\Repositories\\IProductRepository.cs",
+              "ToolTip": "C:\\Users\\vignesh.venkatesan\\Desktop\\My Personal\\DapperCrudApi\\DapperCrudApi\\Repositories\\IProductRepository.cs",
+              "RelativeToolTip": "DapperCrudApi\\Repositories\\IProductRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T05:19:53.782Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\vignesh.venkatesan\\Desktop\\My Personal\\DapperCrudApi\\DapperCrudApi\\Repositories\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "DapperCrudApi\\Repositories\\ProductRepository.cs",
+              "ToolTip": "C:\\Users\\vignesh.venkatesan\\Desktop\\My Personal\\DapperCrudApi\\DapperCrudApi\\Repositories\\ProductRepository.cs",
+              "RelativeToolTip": "DapperCrudApi\\Repositories\\ProductRepository.cs",
+              "ViewState": "AQIAAEgAAAAAAAAAAAAAAF4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T05:20:44.24Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\vignesh.venkatesan\\Desktop\\My Personal\\DapperCrudApi\\DapperCrudApi\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "DapperCrudApi\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\vignesh.venkatesan\\Desktop\\My Personal\\DapperCrudApi\\DapperCrudApi\\Models\\Product.cs",
+              "RelativeToolTip": "DapperCrudApi\\Models\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T05:17:49.236Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
